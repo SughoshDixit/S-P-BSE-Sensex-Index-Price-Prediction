@@ -7,11 +7,11 @@ You are required to develop a Regression model or any other suitable model for t
 
 Action Required:
 
-(1) What is the dependent variable?
-(2) Choose the independent variables? [at least 2 variables]
-(3) Get data of last many years till June’2021. Prepare the data for Model building.
-     Justify your choice for granularity of data, length of data and any other considerations. 
-     Present excel sheet for both the raw data and cleaned data.
-(4) Build Model using data till Mar’2021. Show code and describe the formula and present regression summary statistics and interpret it.
-(5) Present Residual plot for the Model and interpret it.
-(6) Apply the model to predict index values for the Apr-Jun’2021 quarter and calculate a suitable metric to determine the prediction accuracy of the model.  
+(1) What is the dependent variable?</br>
+(2) Choose the independent variables? [at least 2 variables]</br>
+(3) Get data of last many years till June’2021. Prepare the data for Model building.</br>
+     Justify your choice for granularity of data, length of data and any other considerations. </br>
+     Present excel sheet for both the raw data and cleaned data.</br>
+(4) Build Model using data till Mar’2021. Show code and describe the formula and present regression summary statistics and interpret it.</br>
+(5) Present Residual plot for the Model and interpret it.</br>
+(6) Apply the model to predict index values for the Apr-Jun’2021 quarter and calculate a suitable metric to determine the prediction accuracy of the model.</br>  
